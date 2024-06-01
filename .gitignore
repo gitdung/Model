@@ -1,0 +1,15 @@
+venv
+__pycache__
+flagged
+notebooks\model-v1
+notebooks\model-v2
+notebooks/model-v1
+notebooks/model-v2
+notebooks/model_train_30k_rows
+notebooks/model_v3_30k
+notebooks/model_concat_dataV2.pt
+notebooks/model_concat_dataV1.pt
+models/model_concat_dataV2.pt
+models/model_concat_dataV1.pt
+models\model_concat_dataV1.pt
+models/XML_merge_model_v2

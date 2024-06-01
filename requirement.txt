@@ -1,0 +1,10 @@
+pandas 
+whoisdomain
+pyquery
+requests
+openpyxl
+matplotlib
+datasets
+transformers
+scikit-learn
+torch
